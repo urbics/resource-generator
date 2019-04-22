@@ -1,5 +1,5 @@
 {
-    "name": "cloudstudio/resource-generator",
+    "name": "urbics/resource-generator",
     "description": "Resource Generator for Laravel Nova",
     "keywords": [
         "resource",
